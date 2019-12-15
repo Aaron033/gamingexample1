@@ -1,4 +1,4 @@
-var health = 100; 
+let maxhealth = 100; 
 var currentHealth = 50; 
 
 currentHealth = 40.5; 
