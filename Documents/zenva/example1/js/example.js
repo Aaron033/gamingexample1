@@ -5,3 +5,4 @@ var currentHealth = 50;
 
 
 
+var inventory = [ "shirt" , "axe " ,"bread"]
