@@ -9,3 +9,5 @@ var inventory = [ "shirt" , "axe " ,"bread"]
 inventoruy = ["water", "pants"]
 
 console.log(inventory)
+
+inventory[0];
