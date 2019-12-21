@@ -11,3 +11,4 @@ inventoruy = ["water", "pants"]
 console.log(inventory)
 
 inventory[0];
+for( a=0, )
