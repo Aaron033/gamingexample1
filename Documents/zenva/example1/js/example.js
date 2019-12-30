@@ -22,5 +22,9 @@ function addNumber (num)
 
     for(var i=0; i < convert.length; i ++) {
         answer += parseInt(convert[i])
+
+    }
+    if(answer > 9){
+        
     }
 }
