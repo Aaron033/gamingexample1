@@ -18,5 +18,7 @@ function addNumber (num)
 
     var convert = num.toString(); 
 
-    convert.split
+    convert.split("")
+
+    for(var i=0; i < convert.length; i ++)
 }
