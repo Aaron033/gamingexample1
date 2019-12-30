@@ -25,6 +25,11 @@ function addNumber (num)
 
     }
     if(answer > 9){
-        
+        addNumber(answer)
+
+
+    }else {
+        console.log(answer)
     }
 }
+addNumber(555)
