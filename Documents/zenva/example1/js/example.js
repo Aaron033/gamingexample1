@@ -20,5 +20,7 @@ function addNumber (num)
 
     convert.split("")
 
-    for(var i=0; i < convert.length; i ++)
+    for(var i=0; i < convert.length; i ++) {
+        answer += parseInt(convert[i])
+    }
 }
