@@ -12,3 +12,11 @@ console.log(inventory)
 
 inventory[0];
 
+function addNumber (num) 
+{
+    var answer =0; 
+
+    var convert = num.toString(); 
+
+    convert.split
+}
