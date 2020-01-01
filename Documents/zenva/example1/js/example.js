@@ -41,6 +41,10 @@ function missing(arr) {
     let maxNum = Math.max(...arr) 
     
     for(let i = 0; i < arr.length; i++) {
-        if(arr.indexOf(arr[i]+1) === -1 && arr[i] !==maxNum) 
+        if(arr.indexOf(arr[i]+1) === -1 && arr[i] !==maxNum) {
+            answer.push(arr[i] + 1 )
+
+        }
     }
+    return answer; 
 }
