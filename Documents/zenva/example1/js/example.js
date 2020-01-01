@@ -48,3 +48,4 @@ function missing(arr) {
     }
     return answer; 
 }
+missing([9,4,3,6,8,2])
