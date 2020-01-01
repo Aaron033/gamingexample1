@@ -36,5 +36,9 @@ addNumber(555)
 
 
 function missing(arr) {
+    let answer =[]; 
     
+    let maxNum = Math.max(...arr) 
+    
+    for(let i = 0; i < arr)
 }
