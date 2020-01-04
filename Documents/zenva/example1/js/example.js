@@ -56,6 +56,9 @@ function keyboardRow(arr) {
     const rows = [/[qwertyuiop]/g, /[asdfeghjkl]/g, /[zxcvbnm]/g];
 
     for( let i =0; i < arr.length; i++){
-        for()
+        for(let j = 0; j< rows.length; j++){
+
+            if() 
+        }
     }
 }
