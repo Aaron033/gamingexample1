@@ -52,5 +52,8 @@ missing([9,4,3,6,8,2])
 
 function keyboardRow(arr) {
     let answer = []; 
-    
+
+    const rows = [/[qwertyuiop]/g, /[asdfeghjkl]/g, /[zxcvbnm]/g];
+
+    for()
 }
