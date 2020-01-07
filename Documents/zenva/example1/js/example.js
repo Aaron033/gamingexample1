@@ -60,9 +60,10 @@ function keyboardRow(arr) {
 
             if(arr[i].match(rows[j])) {
                 if(arr[i].match(rows[j]).length === arr[i].length){
-                    
+                    answer.push(arr[i])
                 }
             }
         }
+        console.log(answer)
     }
 }
