@@ -58,7 +58,9 @@ function keyboardRow(arr) {
     for( let i =0; i < arr.length; i++){
         for(let j = 0; j< rows.length; j++){
 
-            if() 
+            if(arr[i].match(rows[j]).length === arr[i].length) {
+                if()
+            }
         }
     }
 }
