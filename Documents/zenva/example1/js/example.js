@@ -64,6 +64,8 @@ function keyboardRow(arr) {
                 }
             }
         }
-        console.log(answer)
+        
     }
+    console.log(answer)
+    return answer; 
 }
