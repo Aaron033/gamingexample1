@@ -69,3 +69,5 @@ function keyboardRow(arr) {
     console.log(answer)
     return answer; 
 }
+
+var wordArray = []
