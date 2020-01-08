@@ -70,4 +70,6 @@ function keyboardRow(arr) {
     return answer; 
 }
 
-var wordArray = ["pet","world","not","cat","wolf","ken",]
+var wordArray = ["pet","world","not","cat","wolf","ken",]; 
+
+keyboardRow(wordArray)
