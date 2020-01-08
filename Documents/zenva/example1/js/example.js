@@ -70,4 +70,4 @@ function keyboardRow(arr) {
     return answer; 
 }
 
-var wordArray = []
+var wordArray = ["pet","world","not","cat","wolf","ken",]
