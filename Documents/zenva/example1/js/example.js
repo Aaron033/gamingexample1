@@ -73,3 +73,9 @@ function keyboardRow(arr) {
 var wordArray = ["pet","world","not","cat","wolf","ken",]; 
 
 keyboardRow(wordArray)
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
