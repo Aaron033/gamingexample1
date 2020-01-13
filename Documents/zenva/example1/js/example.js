@@ -78,5 +78,7 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
 
-
+var x;
+x = 6;
+document.getElementById("demo").innerHTML = x;
 <button type="button" onclick="myFunction()">Try it</button>
