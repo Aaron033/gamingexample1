@@ -80,6 +80,6 @@ function myFunction() {
 
 var x;
 x = 6;
-document.getElementById("demo").innerHTML = x;
+
 document.getElementById("demo").innerHTML = 'John Doe';
 <button type="button" onclick="myFunction()">Try it</button>
