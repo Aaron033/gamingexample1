@@ -83,3 +83,7 @@ x = 6;
 
 document.getElementById("demo").innerHTML = 'John Doe';
 <button type="button" onclick="myFunction()">Try it</button>
+
+
+var canvas = document.getElementById('myCanvas'); 
+var ctx = canvas.getContext('2d'); 
