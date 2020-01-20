@@ -90,3 +90,9 @@ var ctx = canvas.getContext('2d');
 
 let screenWidth = 1000; 
 let screenHeight = 500; 
+
+class  GameCharacter {
+    constructor(x, y, width, heigth, color)
+    
+    
+}
