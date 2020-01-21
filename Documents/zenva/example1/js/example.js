@@ -95,6 +95,9 @@ class  GameCharacter {
     constructor(x, y, width, heigth, color){
         this.x = x; 
         this.y = y; 
+
+        this.width = width ; 
+        this.heigth = heigth; 
     }
     
     
