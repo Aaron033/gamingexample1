@@ -98,6 +98,7 @@ class  GameCharacter {
 
         this.width = width ; 
         this.heigth = heigth; 
+        this.color = color; 
     }
     
     
