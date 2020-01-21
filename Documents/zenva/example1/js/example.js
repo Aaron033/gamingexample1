@@ -92,7 +92,10 @@ let screenWidth = 1000;
 let screenHeight = 500; 
 
 class  GameCharacter {
-    constructor(x, y, width, heigth, color)
+    constructor(x, y, width, heigth, color){
+        this.x = x; 
+        this.y = y; 
+    }
     
     
 }
