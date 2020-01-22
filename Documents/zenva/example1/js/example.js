@@ -101,7 +101,7 @@ class  GameCharacter {
         this.color = color; 
     }
     var step = function (){
-        
+        window.requestAnimationFrame(step)
     }
     
     
