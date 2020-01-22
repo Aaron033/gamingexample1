@@ -100,6 +100,9 @@ class  GameCharacter {
         this.heigth = heigth; 
         this.color = color; 
     }
+    var step = function (){
+        
+    }
     
     
 }
