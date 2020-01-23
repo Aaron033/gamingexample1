@@ -100,6 +100,9 @@ class  GameCharacter {
         this.heigth = heigth; 
         this.color = color; 
     }
+
+    var rectangle = new GameCharacter()
+
     var step = function (){
         window.requestAnimationFrame(step)
     }
