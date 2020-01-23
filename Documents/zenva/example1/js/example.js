@@ -101,7 +101,14 @@ class  GameCharacter {
         this.color = color; 
     }
 
-    var rectangle = new GameCharacter()
+    var rectangle = new GameCharacter(
+
+        50,50,50,50, "rgb(0,0,255)"
+    ); 
+
+    var draw = function(){
+        
+    }
 
     var step = function (){
         window.requestAnimationFrame(step)
