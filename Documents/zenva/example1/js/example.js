@@ -107,7 +107,8 @@ class  GameCharacter {
     ); 
 
     var draw = function(){
-        
+
+ctx.clearRect(0,0 ,screenWidth, screenHeight)        
     }
 
     var step = function (){
