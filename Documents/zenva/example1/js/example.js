@@ -112,7 +112,7 @@ ctx.clearRect(0,0 ,screenWidth, screenHeight)
     }
 
     var step = function (){
-     
+        window.requestAnimationFrame(step)
     }
     
     
