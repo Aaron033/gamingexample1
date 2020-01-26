@@ -110,7 +110,7 @@ class  GameCharacter {
 
 ctx.clearRect(0,0 ,screenWidth, screenHeight) 
 ctx.fillStyle = rectangle.color; 
-ctx.fillRect(rectangle.x, rectangle.y)      
+ctx.fillRect(rectangle.x, rectangle.y, rectangle.width, rectangle.heigth)      
     }
 
     var step = function (){
