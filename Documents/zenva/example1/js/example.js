@@ -115,6 +115,7 @@ ctx.fillRect(rectangle.x, rectangle.y, rectangle.width, rectangle.heigth)
 
     var step = function (){
         window.requestAnimationFrame(step)
+        draw(); 
     }
     
     
